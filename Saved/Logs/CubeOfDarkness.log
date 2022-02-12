@@ -3016,3 +3016,10 @@ CubePlayerPawn_BP_C.ReceiveBeginPlay
 [2022.02.12-23.25.07:054][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/CubePlayerPawn_BP" FILE="../../../../../../Unreal/Projects/CubeOfDarkness/Saved/Autosaves/Game/BP/CubePlayerPawn_BP_Auto3.uasset" SILENT=false AUTOSAVING=true
 [2022.02.12-23.25.07:086][379]LogSavePackage: Moving '../../../../../../Unreal/Projects/CubeOfDarkness/Saved/CubePlayerPawn_BP_Auto303A7695549B27A5C3251E287EF1CD9F9.tmp' to '../../../../../../Unreal/Projects/CubeOfDarkness/Saved/Autosaves/Game/BP/CubePlayerPawn_BP_Auto3.uasset'
 [2022.02.12-23.25.07:086][379]LogFileHelpers: Auto-saving content packages took 0.106
+[2022.02.12-23.26.23:721][664]LogSlate: Window 'Source Control Login' being destroyed
+[2022.02.12-23.26.30:195][ 48]BlueprintLog: New page: Compile CubePlayerPawn_BP
+[2022.02.12-23.26.30:236][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.02.12-23.26.30:846][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/CubePlayerPawn_BP" FILE="../../../../../../Unreal/Projects/CubeOfDarkness/Content/BP/CubePlayerPawn_BP.uasset" SILENT=true
+[2022.02.12-23.26.30:876][ 77]LogSavePackage: Moving '../../../../../../Unreal/Projects/CubeOfDarkness/Saved/CubePlayerPawn_BPB963924848AF47E6E760F798DD42A45D.tmp' to '../../../../../../Unreal/Projects/CubeOfDarkness/Content/BP/CubePlayerPawn_BP.uasset'
+[2022.02.12-23.26.30:904][ 77]AssetCheck: New page: Asset Save: CubePlayerPawn_BP
+[2022.02.12-23.26.30:904][ 77]LogContentValidation: Display: Validating Blueprint /Game/BP/CubePlayerPawn_BP.CubePlayerPawn_BP
